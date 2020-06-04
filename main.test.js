@@ -2,9 +2,37 @@
  * YOUR CODE HERE *
  ******************/
 
+let greeting ='Hello';
+let sum = 0;
+let prod = 0;
 
+function greet(bell) {
+  greet = greeting + greet;
+}
 
+function sumOfTwo(10) + (20) {
+  sumOfTwo = 10 * 20;
+}
 
+function multiply(3 * 4 * 5) {
+  multiply = multiply
+}
+
+function returnWhatISay('Ring the Bell.') {
+  returnWhatISay = 'Ring the Bell.';
+}
+
+function sayHi('Hello, Sunshine!') {
+  sayHi = 'Hello, Sunshine!';
+}
+
+function divide(num1 / num2) {
+  divide = num1 / num2;
+}
+
+function remainder() {
+  remainder = num1 % num2;
+}
 
 /*********************************************************************************************************************
 
