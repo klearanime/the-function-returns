@@ -10,20 +10,20 @@ function greet(bell) {
   greet = greeting + greet;
 }
 
-function sumOfTwo(10) + (20) {
-  sumOfTwo = 10 * 20;
+function sumOfTwo(num1, num2) {
+  sum = num1 + num2;
 }
 
 function multiply(3 * 4 * 5) {
-  multiply = multiply
+  multiply = 3 * 4 * 5;
 }
 
 function returnWhatISay('Ring the Bell.') {
   returnWhatISay = 'Ring the Bell.';
 }
 
-function sayHi('Hello, Sunshine!') {
-  sayHi = 'Hello, Sunshine!';
+function sayHi(name) {
+  return 'Hello ' + name + '!';
 }
 
 function divide(num1 / num2) {
