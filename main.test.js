@@ -2,37 +2,39 @@
  * YOUR CODE HERE *
  ******************/
 
-let greeting ='Hello';
+let greeting = 'Hello';
 let sum = 0;
 let prod = 0;
 
-function greet(bell) {
-  greet = greeting + greet;
+function greet(speak) {
+    greeting = 'Hello ' + speak;
 }
 
-function sumOfTwo(num1, num2) {
-  sum = num1 + num2;
+function sumOfTwo(num, num1) {
+    sum = num + num1;
 }
 
-function multiply(3 * 4 * 5) {
-  multiply = 3 * 4 * 5;
+function multiply(num, num1, num2) {
+    prod = num * num1 * num2;
 }
 
-function returnWhatISay('Ring the Bell.') {
-  returnWhatISay = 'Ring the Bell.';
+function returnWhatISay(unchanged) {
+    return unchanged;
 }
 
 function sayHi(name) {
-  return 'Hello ' + name + '!';
+  
+    return ('Hello ' + name + '!')
+} 
+
+function divide(num, num1) {
+    return num / num1;
+} 
+
+function remainder(num, num1) {
+    return num % num1;
 }
 
-function divide(num1 / num2) {
-  divide = num1 / num2;
-}
-
-function remainder() {
-  remainder = num1 % num2;
-}
 
 /*********************************************************************************************************************
 
